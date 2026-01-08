@@ -9,7 +9,7 @@ With a strong background in automation testing, I excel in Functional and GUI ev
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=java,cs,typescript,js,py,bash,gherkin,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=selenium,docker,spring,postman,jenkins,actions,androidstudio,maven)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=selenium,docker,spring,postman,jenkins,githubactions,androidstudio,maven)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,sqlite,postgres,gcp,apple,linux,windows,aws,git)](https://skillicons.dev)
 
